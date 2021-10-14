@@ -1,0 +1,219 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+#main-content {
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*========================================= ENTER-API-KEY =========================================*/
+
+
+.heading-api {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 10rem;
+    padding-bottom: 1.2rem;
+
+
+}
+
+#apiKey {
+    width: 40%;
+    font-weight: 700;
+}
+
+
+
+
+#submitApiKey{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+    
+}
+
+#submitApiKey:hover  {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+
+/*========================================= HOME-PAGE =========================================*/
+
+
+table {
+    width: 80%;
+    color: white;
+    font-style: italic;
+    margin: 8rem 0 2rem 10%;
+    border: 2px solid rgb(221, 11, 221);
+    text-align: left;
+    background-color: rgba(243, 44, 183, 0.73);
+}
+
+tr,td {
+    border: 1px solid #fff8f8;
+    padding: 10px;
+}
+
+
+#refresh {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+    
+}
+
+#refresh:hover  {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+
+#addContact  {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+    
+}
+#addContact:hover {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+/*========================================= ADD CONTACT-PAGE =========================================*/
+
+
+
+#editForm{
+    color: white;
+    width: 70%;
+    padding: 50px 0 20px 0;
+    margin-left: 15%;
+    font-weight: 500;
+    background-color: pink;
+    
+}
+
+#submitForm {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+    
+}
+
+#submitForm:hover {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+
+#homeLink {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+}
+
+#homeLink:hover {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+/*========================================= EDIT CONTACT-PAGE =========================================*/
+
+
+#avatarImage {
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+#editContact  {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+}
+
+#editContact:hover {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
+
+
+#deleteContact {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    transition: 0.25px;
+    box-shadow: 2px 3px white;
+}
+
+#deleteContact:hover {
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: 700;
+    
+    border-radius: 5px 30px;
+    background-color: #ffffff;
+}
